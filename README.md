@@ -1,1 +1,3 @@
 # GenericDatastructure
+
+Here, i have created singlelinked list datastructure with generic type.....! we can use it with generic way ,i have created generic function also which we can use with pre-difined datatypeslike float,int,char etc....
