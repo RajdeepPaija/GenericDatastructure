@@ -1,7 +1,8 @@
 # GenericDatastructure
 
 ................Code Explanation...............
-Here, i have created singlelinked list datastructure with generic type.....! we can use it with generic way ,i have created generic function also which we can use with pre-difined datatypeslike float,int,char etc....
+
+Here, i have created singlelinked list datastructure with generic type.....! we can use it with generic way ,i have created generic function also which we can use with pre-difined datatypes like float,int,char etc....
 
 File:SingleLinkedList.h
 ->this header file contains the class declaration of Single linked list and its function's declaration.
